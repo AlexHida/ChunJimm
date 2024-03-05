@@ -1,6 +1,6 @@
 <h1> Juego Chun Jim</h1>
 Juego de Plataforma para Aprender Legislación Informática
-Chun Jimm es un juego educativo en dos dimensiones (2D) diseñado para ayudar a los usuarios a aprender sobre legislación informática de manera interactiva y divertida. En este juego, los jugadores controlan a un personaje que recolecta frutas mientras se enfrenta a preguntas relacionadas con la legislación informática.
+Chun Jim es un juego educativo en dos dimensiones (2D) diseñado para ayudar a los usuarios a aprender sobre legislación informática de manera interactiva y divertida. En este juego, los jugadores controlan a un personaje que recolecta frutas mientras se enfrenta a preguntas relacionadas con la legislación informática.
 
 <h1> Características Principales</h1> 
 Juego de Plataforma Interactivo: Los jugadores pueden disfrutar de un entorno de juego en 2D mientras exploran diferentes niveles y desafíos.
@@ -9,7 +9,7 @@ Respuestas de Opción Múltiple: Cada pregunta viene con dos respuestas posibles
 Consecuencias por Respuestas Incorrectas: Si el jugador elige la respuesta incorrecta, el personaje sufrirá consecuencias en el juego, como la pérdida de vidas o el reinicio del nivel.
 
 <h1> Objetivo</h1>
-El objetivo principal de Chun Jimm es proporcionar una experiencia de aprendizaje práctica y entretenida sobre legislación informática, fomentando la comprensión de conceptos importantes mientras se divierten.
+El objetivo principal de Chun Jim es proporcionar una experiencia de aprendizaje práctica y entretenida sobre legislación informática, fomentando la comprensión de conceptos importantes mientras se divierten.
 
 <h1> Cómo Jugar</h1>
 <h2>Controles</h2>
