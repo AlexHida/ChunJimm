@@ -13,7 +13,7 @@ El objetivo principal de Chun Jimm es proporcionar una experiencia de aprendizaj
 
 <h1> Cómo Jugar</h1>
 <h1>Controles</h1>
-Los jugadores pueden controlar al personaje utilizando las teclas de dirección o controles táctiles, dependiendo de la plataforma.
+Los jugadores pueden controlar al personaje utilizando las teclas de dirección.
 Recoger Frutas: Durante el juego, el personaje debe recolectar la mayor cantidad posible de frutas para acumular puntos.
 Responder Preguntas: A medida que el jugador avanza en los niveles, se presentarán preguntas sobre legislación informática. Selecciona la respuesta que creas correcta para avanzar.
 Consecuencias de Respuestas Incorrectas: Si seleccionas la respuesta incorrecta, el personaje sufrirá una consecuencia en el juego, como perder una vida o reiniciar desde un punto de control.
