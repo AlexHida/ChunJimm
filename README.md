@@ -19,3 +19,11 @@ Responder Preguntas: A medida que el jugador avanza en los niveles, se presentar
 Consecuencias de Respuestas Incorrectas: Si seleccionas la respuesta incorrecta, el personaje sufrirá una consecuencia en el juego, como perder una vida o reiniciar desde un punto de control.
 
 ¡Diviértete aprendiendo sobre legislación informática con Chun Jimm!
+<h1>Nivel 1</h1>
+![image](https://github.com/AlexHida/ChunJimm/assets/96128820/92e49e46-16ac-4106-90a2-112120f68e2b)
+<h1>Nivel 2</h1>
+![image](https://github.com/AlexHida/ChunJimm/assets/96128820/4552f306-6530-415a-8b43-2f13fa8e6424)
+<h1>Nivel 3</h1>
+![image](https://github.com/AlexHida/ChunJimm/assets/96128820/a1b605a3-af4c-4a30-a21d-bd7f175373f8)
+
+
