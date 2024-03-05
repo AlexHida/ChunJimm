@@ -12,7 +12,7 @@ Consecuencias por Respuestas Incorrectas: Si el jugador elige la respuesta incor
 El objetivo principal de Chun Jimm es proporcionar una experiencia de aprendizaje práctica y entretenida sobre legislación informática, fomentando la comprensión de conceptos importantes mientras se divierten.
 
 <h1> Cómo Jugar</h1>
-<h1>Controles</h1>
+<h2>Controles</h2>
 Los jugadores pueden controlar al personaje utilizando las teclas de dirección.
 Recoger Frutas: Durante el juego, el personaje debe recolectar la mayor cantidad posible de frutas para acumular puntos.
 Responder Preguntas: A medida que el jugador avanza en los niveles, se presentarán preguntas sobre legislación informática. Selecciona la respuesta que creas correcta para avanzar.
