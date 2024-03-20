@@ -27,5 +27,6 @@ Consecuencias de Respuestas Incorrectas: Si seleccionas la respuesta incorrecta,
 ![image](https://github.com/AlexHida/ChunJimm/assets/96128820/a1b605a3-af4c-4a30-a21d-bd7f175373f8)
 
 
-![logo2](https://github.com/AlexHida/ChunJimm/assets/96128820/4d4b5442-6b70-4a45-bdd4-583a1f2aa5c1)
+![logo2](https://github.com/AlexHida/ChunJimm/assets/96128820/ae886f7b-b72f-4d73-b933-d66bc3f6a0d8)
+
 
