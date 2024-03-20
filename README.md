@@ -26,5 +26,6 @@ Consecuencias de Respuestas Incorrectas: Si seleccionas la respuesta incorrecta,
 <h1>Nivel 3</h1>
 ![image](https://github.com/AlexHida/ChunJimm/assets/96128820/a1b605a3-af4c-4a30-a21d-bd7f175373f8)
 
-![logo](https://github.com/AlexHida/ChunJimm/assets/96128820/3353b745-3777-4a95-a39f-8a1917aff759)
+
+![logo2](https://github.com/AlexHida/ChunJimm/assets/96128820/4d4b5442-6b70-4a45-bdd4-583a1f2aa5c1)
 
