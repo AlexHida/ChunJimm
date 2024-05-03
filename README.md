@@ -31,6 +31,7 @@ Consecuencias de Respuestas Incorrectas: Si seleccionas la respuesta incorrecta,
 
 ![2](https://github.com/AlexHida/ChunJimm/assets/96128820/5ad17033-43b1-41bb-8c01-d0378f1a5e71)
 
+![pixel-art-12113](https://github.com/AlexHida/ChunJimm/assets/96128820/bfda8be4-3a1f-4325-9799-59ac01cad3bc)
 
 
 
